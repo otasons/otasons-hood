@@ -1,0 +1,1 @@
+export default function Home() { return <div className='text-3xl p-4'>Welcome to Otasons Hood - Soccer Updates!</div>; }
